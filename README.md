@@ -1,3 +1,3 @@
-# COMP-1405
-Prof: Robert Collier
-Fall 2016
+# COMP-1405 Fall 2016
+- Prof: Robert Collier
+
